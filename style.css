@@ -1,0 +1,22 @@
+.jumbotron {
+    background-image: url(img/thumbs/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+    color: white;
+
+}
+
+.biog1 {
+    font-size: 10%;
+    position: relative;
+}
+
+section {
+    min-height: 700px;
+}
+
+.parap1 p,
+.parap2 p {
+    text-indent: 30px;
+}
